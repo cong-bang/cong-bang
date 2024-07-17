@@ -1,4 +1,4 @@
-<img src="https://profile-counter.glitch.me/{cong-bang}/count.svg" alt="cong-bang's Profile Visitor Count" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cong-bang.cong-bang" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+profile+!;Hey%2C+I'm+Cong+Bang+%3C3" alt="Typing SVG" /></a>
 
