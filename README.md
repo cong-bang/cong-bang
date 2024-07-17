@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**cong-bang/cong-bang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+profile+!;Hey%2C+I'm+Cong+Bang+%3C3" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+## :sassy_man:  About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: I'm currently a student at **FPT University - Ho Chi Minh City Campus**
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,firebase,c,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cong-bang/cong-bang/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
