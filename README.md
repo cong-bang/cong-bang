@@ -1,12 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cong-bang.cong-bang" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+profile+!;Heyy👋!+I'm+Cong+Bang+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+profile+!;Hey👋!+I'm+Cong+Bang+%3C3" alt="Typing SVG" /></a>
 
 ## :sassy_man:  About me
 
 - :school: I'm currently a student at **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+- :computer: I'm a passionate **Software Engineer**
 
 <hr/>
 
