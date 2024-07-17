@@ -3,9 +3,10 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs at midnight every day
+  workflow_dispatch:
   push:
     branches:
-      - output  # Ensure changes are pushed to the output branch
+      - main
 
 jobs:
   build:
@@ -19,11 +20,17 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-snake.svg
+          output: dist/github-contribution-grid-snake.svg
+
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Move snake to output
+        run: mv dist/github-contribution-grid-snake.svg output/
 
       - name: Push the generated snake
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: output
           publish_branch: output
